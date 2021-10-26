@@ -1,2 +1,2 @@
 # eCommerce
-Projeto eComerce - asp.net mvc core
+Projeto desenvolvido em ASP.NET Core na disciplina de Desenvolvimento de Sistemas de Informação Avançado de Sistemas I
